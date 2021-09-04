@@ -2,10 +2,10 @@
 - 📝 aprendiz de programação
 - ⚔ estudando python javascript html e css
  
-<div>
-  <a href="https://github.com/emanxff">
+ <div>
+  <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanxff&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanxff&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanxff&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   <div style="display: inline_block"><br>
